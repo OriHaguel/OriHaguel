@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ori
-#### Fullstack Developer
+![Fullstack Developer](https://www.picxy.com/photo/2031989)
 I'm a Full-Stack Developer with experience in building web applications using React, NestJS, TypeScript, and MongoDB. I focus on creating efficient, scalable, and user-friendly solutions.
 🚀 Always learning, optimizing, and building. Looking for opportunities to grow and contribute!
 
