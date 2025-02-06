@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Ori
 #### Fullstack Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a Full-Stack Developer with experience in building web applications using React, NestJS, TypeScript, and MongoDB. I focus on creating efficient, scalable, and user-friendly solutions.
+🚀 Always learning, optimizing, and building. Looking for opportunities to grow and contribute!
 
 Skills: REACT / TS / HTML / CSS / NEST.JS / SASSS / MONGODB  
 
