@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ori
 #### Fullstack Developer
-![Fullstack Developer](https://static.vecteezy.com/system/resources/thumbnails/000/829/812/small_2x/binary-code-banner.jpg)
 
 I'm a Full-Stack Developer with experience in building web applications using React, NestJS, TypeScript, and MongoDB. I focus on creating efficient, scalable, and user-friendly solutions.
 🚀 Always learning, optimizing, and building. Looking for opportunities to grow and contribute!
